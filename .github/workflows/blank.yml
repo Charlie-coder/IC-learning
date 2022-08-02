@@ -1,5 +1,0 @@
-name: just a try
-on: [pull_request]
-env: greet='Hello'
-jobs: none
-echo "$greet world"
