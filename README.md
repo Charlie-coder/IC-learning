@@ -1,2 +1,2 @@
-# Linux_learning
+# IC learning files
 learn linux
