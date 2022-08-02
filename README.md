@@ -7,3 +7,4 @@
 ### [夏宇闻 verilog经典教程](https://github.com/Charlie-coder/IC-learning/blob/master/%E5%A4%8F%E5%AE%87%E9%97%BB-Verilog%E7%BB%8F%E5%85%B8%E6%95%99%E7%A8%8B.pdf)
 ### 数字集成电路物理设计 陈春章
 ### [Static Timing Analysis for Nanometer Designs--A Practical Approach J. Bhasker • Rakesh Chadha](https://github.com/Charlie-coder/IC-learning/blob/master/Static_Timing_Analysis_for_Nanometer_Designs_wrapper.pdf)
+### [STA Timing Analysis for Nanometer Design中文翻译](https://www.zhihu.com/people/zhao-jun-jun-19/posts?page=1)
