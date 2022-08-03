@@ -8,3 +8,10 @@
 ### 数字集成电路物理设计 陈春章
 ### [Static Timing Analysis for Nanometer Designs--A Practical Approach J. Bhasker • Rakesh Chadha](https://github.com/Charlie-coder/IC-learning/blob/master/Static_Timing_Analysis_for_Nanometer_Designs_wrapper.pdf)
 ### [STA Timing Analysis for Nanometer Design中文翻译](https://www.zhihu.com/people/zhao-jun-jun-19/posts?page=1)
+## Synopsis user guide pdf collection
+### [icc2mv ICCII Multivoltage User Guide](https://github.com/Charlie-coder/IC-learning/blob/master/User%20guide/icc2mv.pdf) 
+### [icc2 Timing Analysis User Guide](https://github.com/Charlie-coder/IC-learning/blob/master/User%20guide/icc2tim.pdf) 
+### [icc2 implementation User Guide](https://github.com/Charlie-coder/IC-learning/blob/master/User%20guide/icc2ug.pdf) 
+### [PrimeTime user guide](https://github.com/Charlie-coder/IC-learning/blob/master/User%20guide/ptug.pdf) 
+### [Synopsis Multivoltage flow User Guide](https://github.com/Charlie-coder/IC-learning/blob/master/User%20guide/smvfug.pdf) 
+### [Using tcl with Synopsis tool](https://github.com/Charlie-coder/IC-learning/blob/master/User%20guide/tclug.pdf) 
