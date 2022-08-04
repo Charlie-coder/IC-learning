@@ -15,3 +15,5 @@
 ### [PrimeTime user guide](https://github.com/Charlie-coder/IC-learning/blob/master/User%20guide/ptug.pdf) 
 ### [Synopsis Multivoltage flow User Guide](https://github.com/Charlie-coder/IC-learning/blob/master/User%20guide/smvfug.pdf) 
 ### [Using tcl with Synopsis tool](https://github.com/Charlie-coder/IC-learning/blob/master/User%20guide/tclug.pdf) 
+## Scripts books
+### [tcl8.5 doc](https://github.com/Charlie-coder/IC-learning/blob/master/Scripts%20book/tcl8.5.5.pdf)
